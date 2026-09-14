@@ -2,7 +2,6 @@ import requests
 import csv
 import json
 from datetime import datetime
-from bs4 import BeautifulSoup
 
 # PUT YOUR APIFY TOKEN HERE
 APIFY_TOKEN = "apify_api_l2iSfxruKZ9Hht4WlU1vHMtce0lWfe35g5Lp"
