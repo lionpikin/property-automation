@@ -1,11 +1,78 @@
-source,type,phone,price,details,link,date
-propertypro,listing,N/A,N/A,"4 bedroom Semi Detached Duplex, House in Katampe Abuja | Semi Detached Duplex, House for sale in Katampe | Semi Detached Duplex, House in Katampe | 4 bedroom",https://propertypro.ng/property/4-bedroom-house-for-sale-rock-hampton-katampe-abuja-7NRJX,2026-09-23
-propertypro,listing,N/A,N/A,"5 bedroom Terraced Duplex, House in Life Camp Abuja | Terraced Duplex, House for sale in Life Camp | Terraced Duplex, House in Life Camp | 5 bedroom",https://propertypro.ng/property/5-bedroom-house-for-sale-derrick-homes-dape-life-camp-life-camp-abuja-6PUWA,2026-09-23
-propertypro,listing,N/A,N/A,"2 bedroom Terraced Duplex, House in Lugbe Abuja | Terraced Duplex, House for sale in Lugbe | Terraced Duplex, House in Lugbe | 2 bedroom",https://propertypro.ng/property/2-bedroom-house-for-sale-aco-lugbe-abuja-6QEZC,2026-09-23
-propertypro,listing,N/A,N/A,"2 bedroom Blocks Of Flats, House in Akobo Ibadan Oyo | Blocks Of Flats, House for sale in Ibadan | Blocks Of Flats, House in Ibadan | 2 bedroom",https://propertypro.ng/property/2-bedroom-house-for-sale-bashorun-housing-estate-akobo-ibadan-oyo-1QDJH,2026-09-23
-propertypro,listing,N/A,N/A,"3 bedroom Detached Duplex, House in Akobo Ibadan Oyo | Detached Duplex, House for sale in Ibadan | Detached Duplex, House in Ibadan | 3 bedroom",https://propertypro.ng/property/3-bedroom-house-for-sale-rayfield-gardens-estate-monatan-ibadan-akobo-ibadan-oyo-5QEGD,2026-09-23
-npc,listing,N/A,290000000,Destress 4 Bedrooms Terraced Duplex with BQ and Ac,N/A,2026-09-23
-npc,listing,N/A,470000000,Enormous 5 Bedroom Fully Detached Duplex with 2 BQ and a Pool,N/A,2026-09-23
-npc,listing,N/A,600000000,5 Bedroom Detached Duplex with Swimming Pool,N/A,2026-09-23
-npc,listing,N/A,1500000000,"Luxury 5 Bedroom Fully Detached Duplex + BQ, Pool, Cinema",N/A,2026-09-23
-npc,listing,N/A,280000000,Luxury 4 Bedroom Detached Duplex with a Room BQ,N/A,2026-09-23
+source,city,type,title,price,size,phone,link,date
+propertypro,Nigeria,sale,"3 bedroom Detached Bungalow, House in Galadimawa Abuja | Detached Bungalow, House for sale in Galadimawa | Detached Bungalow, House in Galadimawa | 3 bedroom",110000000,Unknown,N/A,https://propertypro.ng/property/3-bedroom-house-for-sale-maccido-estate-galadimawa-galadimawa-abuja-1QFVD,2026-09-23
+propertypro,Nigeria,sale,"6 bedroom Detached Duplex, House in Banana Island Ikoyi Lagos | Detached Duplex, House for sale in Ikoyi | Detached Duplex, House in Ikoyi | 6 bedroom",5500000000,Unknown,N/A,https://propertypro.ng/property/6-bedroom-house-for-sale-banana-estate-banana-island-ikoyi-lagos-3QFUZ,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Terraced Duplex, House in Guzape Abuja | Terraced Duplex, House for sale in Guzape | Terraced Duplex, House in Guzape | 5 bedroom",450000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-guzape-abuja-4QEYC,2026-09-23
+propertypro,Nigeria,sale,"4 bedroom Semi Detached Duplex, House in Ogudu Gra Ogudu Lagos | Semi Detached Duplex, House for sale in Ogudu | Semi Detached Duplex, House in Ogudu | 4 bedroom",350000000,Unknown,N/A,https://propertypro.ng/property/4-bedroom-house-for-sale-ogudu-gra-ogudu-lagos-1QEYC,2026-09-23
+propertypro,Nigeria,sale,5 bedroom House in Lekki Phase 1 Lekki Lagos | House for sale in Lekki | House in Lekki | 5 bedroom,580000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-lekki-phase-1-lekki-lagos-7QFPG,2026-09-23
+propertypro,Nigeria,sale,"4 bedroom Terraced Duplex, House in Guzape Abuja | Terraced Duplex, House for sale in Guzape | Terraced Duplex, House in Guzape | 4 bedroom",280000000,Unknown,N/A,https://propertypro.ng/property/4-bedroom-house-for-sale-guzape-abuja-0PNSS,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Detached Duplex, House in Life Camp Abuja | Detached Duplex, House for sale in Life Camp | Detached Duplex, House in Life Camp | 5 bedroom",270000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-life-camp-in-a-serenebeautiful-and-well-secured-estate-life-camp-abuja-6PVNE,2026-09-23
+propertypro,Nigeria,sale,"1 bedroom mini flat Blocks Of Flats, House in Jahi Abuja | Blocks Of Flats, House for sale in Jahi | Blocks Of Flats, House in Jahi | 1 bedroom mini flat",125000000,Unknown,N/A,https://propertypro.ng/property/1-bedroom-house-for-sale-jahi-abuja-7PKQE,2026-09-23
+propertypro,Nigeria,sale,"7 bedroom Detached Duplex, House in Apo Resettlement Apo Abuja | Detached Duplex, House for sale in Apo | Detached Duplex, House in Apo | 7 bedroom",850000000,Unknown,N/A,https://propertypro.ng/property/7-bedroom-house-for-sale-apo-resettlement-apo-resettlement-apo-abuja-1PNXS,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Detached Duplex, House in Jahi Abuja | Detached Duplex, House for sale in Jahi | Detached Duplex, House in Jahi | 5 bedroom",550000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-jahi-abuja-0PRGQ,2026-09-23
+propertypro,Nigeria,sale,"4 bedroom Terraced Duplex, House in Life Camp Abuja | Terraced Duplex, House for sale in Life Camp | Terraced Duplex, House in Life Camp | 4 bedroom",190000000,Unknown,N/A,https://propertypro.ng/property/4-bedroom-house-for-sale-life-camp-abuja-8PTUX,2026-09-23
+propertypro,Nigeria,sale,"4 bedroom Terraced Duplex, House in Jahi Abuja | Terraced Duplex, House for sale in Jahi | Terraced Duplex, House in Jahi | 4 bedroom",290000000,Unknown,N/A,https://propertypro.ng/property/4-bedroom-house-for-sale-jahi-abuja-8PNST,2026-09-23
+propertypro,Nigeria,sale,"3 bedroom Terraced Duplex, House in Idu Abuja | Terraced Duplex, House for sale in Idu | Terraced Duplex, House in Idu | 3 bedroom",130000000,Unknown,N/A,https://propertypro.ng/property/3-bedroom-house-for-sale-idu-abuja-3PTVA,2026-09-23
+propertypro,Nigeria,sale,"2 bedroom Blocks Of Flats, House in Life Camp Abuja | Blocks Of Flats, House for sale in Life Camp | Blocks Of Flats, House in Life Camp | 2 bedroom",130000000,Unknown,N/A,https://propertypro.ng/property/2-bedroom-house-for-sale-life-camp-abuja-0PLAL,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Detached Duplex, House in Katampe Extension Katampe Abuja | Detached Duplex, House for sale in Katampe | Detached Duplex, House in Katampe | 5 bedroom",1500000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-diplomatic-zone-katampe-extension-katampe-abuja-4PNDE,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Detached Duplex, House in Life Camp Abuja | Detached Duplex, House for sale in Life Camp | Detached Duplex, House in Life Camp | 5 bedroom",550000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-life-camp-abuja-2PRYR,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Detached Duplex, House in Gaduwa Abuja | Detached Duplex, House for sale in Gaduwa | Detached Duplex, House in Gaduwa | 5 bedroom",650000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-gaduwa-district-gaduwa-abuja-5PJFS,2026-09-23
+propertypro,Nigeria,sale,"7 bedroom Detached Duplex, House in Gwarinpa Abuja | Detached Duplex, House for sale in Gwarinpa | Detached Duplex, House in Gwarinpa | 7 bedroom",550000000,Unknown,N/A,https://propertypro.ng/property/7-bedroom-house-for-sale-gwarimpa-extension-gwarinpa-abuja-0PMGN,2026-09-23
+propertypro,Nigeria,sale,"4 bedroom Detached Duplex, House in Life Camp Abuja | Detached Duplex, House for sale in Life Camp | Detached Duplex, House in Life Camp | 4 bedroom",550000000,Unknown,N/A,https://propertypro.ng/property/4-bedroom-house-for-sale-life-camp-abuja-5PNQM,2026-09-23
+propertypro,Nigeria,sale,"5 bedroom Detached Duplex, House in Gwarinpa Abuja | Detached Duplex, House for sale in Gwarinpa | Detached Duplex, House in Gwarinpa | 5 bedroom",850000000,Unknown,N/A,https://propertypro.ng/property/5-bedroom-house-for-sale-gwarimpa-main-gwarinpa-abuja-8PPPP,2026-09-23
+npc,Abuja,sale,4 Bedroom Terrace Triplex with an Attached BQ,450000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Pool,850000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Pool,850000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached House,850000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Pool,1500000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,4 Bedroom Detached Duplex with Boys Quarter,270000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached House,450000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,Brand New 4 Bedroom Duplex with a Room BQ,250000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,3 Bedroom Duplex in Luxury Estate,141560000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Pool,1500000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,4 Bedroom Duplex,780000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,4 Bedroom Detached Duplex with BQ,230000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Swimming Pool and BQ,250000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Semi Detached Duplex with Swimming Pool,240000000,Unknown,N/A,N/A,2026-09-23
+npc,Abuja,sale,5 Bedroom Fully Detached Duplex with BQ,650000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,"Luxury 5 Bedroom Fully Detached Duplex + BQ, Pool, Study/Office Space",400000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedrooms Detached House,850000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Pool,1200000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Duplex on 919SQM,3000000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,4 Bedroom Semi Detached Duplex,260000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Semi Detached Duplex with BQ,300000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,3 Bedroom Terrace House with BQ,165000000,Unknown,N/A,N/A,2026-09-23
+npc,Abuja,sale,Distressed Sale - 5 Bedroom Detached Duplex,90000000,Unknown,N/A,N/A,2026-09-23
+npc,Abuja,sale,4-Bedroom Detached Duplex with BQ,750000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,Enormous 5 Bedroom Fully Detached Duplex with 2 BQ and a Pool,470000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,5 Bedroom Detached Duplex with Swimming Pool,600000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,"Luxury 5 Bedroom Fully Detached Duplex + BQ, Pool, Cinema",1500000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,Luxury 4 Bedroom Detached Duplex with a Room BQ,280000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,Nicely Built 3 Bedroom Terrace Duplex with a Communal Pool,130000000,Unknown,N/A,N/A,2026-09-23
+npc,Lagos,sale,Luxury 4 Bedroom Semi Detached Duplex + BQ in a Secured Estate,260000000,Unknown,N/A,N/A,2026-09-23
+nairaland,Nigeria,listing,Lekki Avana Phase 2: Sales About To Close | Bungalow House For Sale In Lekki,See Post,Unknown,See Post,https://www.nairaland.com/8752895/lekki-avana-phase-2-sales#140714596,2026-09-23
+nairaland,Nigeria,listing,What Llms Could Change About Property Search In Nigeria,See Post,Unknown,See Post,https://www.nairaland.com/8752871/what-llms-could-change-property#140714271,2026-09-23
+nairaland,Nigeria,listing,Garutech Customer-service Knowledge Base — Spray Booths & Garage Equipment.,See Post,Unknown,See Post,https://www.nairaland.com/8752840/garutech-customer-service-knowledge-base-spray#140713886,2026-09-23
+nairaland,Nigeria,listing,Luxury C Of O Land For Sale At Oakley Court Idera Scheme Eleko,"₦52,000,000",3000 sqm,See Post,https://www.nairaland.com/8752683/luxury-c-o-land-sale#140711808,2026-09-23
+nairaland,Nigeria,listing,5bedroom Terrace Duplex House+2bqs Swimmingpool For Sale In Banana Island Ikoyi,See Post,Unknown,See Post,https://www.nairaland.com/8751816/5bedroom-terrace-duplex-house-2bqs#140700822,2026-09-23
+nairaland,Nigeria,listing,Hot Houses For Rent & Sale In Ikorodu & Ogijo - Lagos State,See Post,Unknown,09076149495,https://www.nairaland.com/8751487/hot-houses-rent-sale-ikorodu#140693760,2026-09-23
+nairaland,Nigeria,listing,"How To Find Houses, Land And Property In Nigeria Without Wasting Time",See Post,Unknown,See Post,https://www.nairaland.com/8751089/how-find-houses-land-property#140686594,2026-09-23
+nairaland,Nigeria,listing,House Clearance/relocation Sale In Lagos,See Post,Unknown,09161082525,https://www.nairaland.com/8750278/house-clearance-relocation-sale-lagos#140673824,2026-09-23
+nairaland,Nigeria,listing,RO Membrane Price: 7 Factors That Affect Replacement Cost,See Post,Unknown,See Post,https://www.nairaland.com/8749830/ro-membrane-price-7-factors#140667331,2026-09-23
+nairaland,Nigeria,listing,Luxury C Of O Land For Sale At Oakley Court Idera Scheme Eleko,"₦52,000,000",3000 sqm,08029562694,https://www.nairaland.com/8749568/luxury-c-o-land-sale#140663540,2026-09-23
+nairaland,Nigeria,listing,4bedroom Semi-detached Duplex House With Bq For Sale In Orchid Lekki Lagos,See Post,Unknown,See Post,https://www.nairaland.com/8749365/4bedroom-semi-detached-duplex-house-bq#140660360,2026-09-23
+nairaland,Nigeria,listing,Looking To Buy A House In Mowe: See This Property At Bluestone Treasure Estate,See Post,600 sqm,See Post,https://www.nairaland.com/8747890/looking-buy-house-mowe-see#140636227,2026-09-23
+nairaland,Nigeria,listing,Why Are People Buying Properties In Mowe?,See Post,600 sqm,See Post,https://www.nairaland.com/8747821/why-people-buying-properties-mowe#140635182,2026-09-23
+nairaland,Nigeria,listing,"3-Bedroom Bungalow Houses In Mowe Town, Ogun For Sale",See Post,600 sqm,See Post,https://www.nairaland.com/8747794/3-bedroom-bungalow-houses-mowe-town#140634969,2026-09-23
+nairaland,Nigeria,listing,Is Lekki Avana 2 Worth Your Money?: Bungalow House For Sale In Ibeju Lekki,See Post,Unknown,08029562694,https://www.nairaland.com/8747780/lekki-avana-2-worth-money#140634795,2026-09-23
+nairaland,Nigeria,listing,Luxury Land For Sale With Governor's Consent - Alphamark Elite Court Ibeju Lekki,See Post,500 sqm,See Post,https://www.nairaland.com/8747609/luxury-land-sale-governors-consent#140633114,2026-09-23
+nairaland,Nigeria,listing,"Newly Built 5-bedroom Fully Detached Duplex + Gym For Sale In Egbeda, Lagos",See Post,Unknown,07069604726,https://www.nairaland.com/8747561/newly-built-5-bedroom-fully-detached#140632594,2026-09-23
+nairaland,Nigeria,listing,5bedroom Semi-detached Duplex House With Bq For Sale In Ikeja GRA Lagos,See Post,Unknown,See Post,https://www.nairaland.com/8745595/5bedroom-semi-detached-duplex-house-bq#140599306,2026-09-23
+nairaland,Nigeria,listing,"These Zylus Houses Are Now Over ₦20M Cheaper | House For Sale In LEKKI, LAGOS",See Post,1500 sqm,See Post,https://www.nairaland.com/8745360/these-zylus-houses-now-over#140596006,2026-09-23
+nairaland,Nigeria,listing,4bedroom Terrace House+bq Penthouse Elevator For Sale Banana Island Ikoyi Lagos,See Post,Unknown,See Post,https://www.nairaland.com/8745002/4bedroom-terrace-house-bq-penthouse#140591532,2026-09-23
+nairaland,Nigeria,listing,"Woman Sells Her Twins, Steals 19 Children In Oyo, Caught By Police (Video, Pics)",See Post,Unknown,See Post,https://www.nairaland.com/8744782/woman-sells-twins-steals-19#140587796,2026-09-23
+nairaland,Nigeria,listing,Luxury Serviced Plot Of Land For Sale At Gold Mine City Estate Epe Lagos,See Post,Unknown,See Post,https://www.nairaland.com/8744590/luxury-serviced-plot-land-sale#140585325,2026-09-23
+nairaland,Nigeria,listing,"Topnotch Finished 1, Bedroom With GYM House, Elevator & Swimming Pool For Sale",See Post,Unknown,See Post,https://www.nairaland.com/8744088/topnotch-finished-1-bedroom-gym#140577728,2026-09-23
+nairaland,Nigeria,listing,"Topnotch Finished 1, Bedroom With GYM House, Elevator & Swimming Pool For Sale",See Post,Unknown,See Post,https://www.nairaland.com/8744070/topnotch-finished-1-bedroom-gym#140577444,2026-09-23
+nairaland,Nigeria,listing,Exquisite C Of O Land For Sale - Oakley Court Idera Scheme Eleko,See Post,Unknown,See Post,https://www.nairaland.com/8743862/exquisite-c-o-land-sale#140575240,2026-09-23
+nairaland,Nigeria,listing,"SEC Approves Dangote Refinery's NGN2.15 Tr IPO, Africa's Biggest-ever Share Sale",See Post,Unknown,See Post,https://www.nairaland.com/8743313/sec-approves-dangote-refinerys-ngn2.15#140566037,2026-09-23
+nairaland,Nigeria,listing,Luxury C Of O Land For Sale At Vista City Estate Sangotedo Monastery Road,See Post,Unknown,See Post,https://www.nairaland.com/8743297/luxury-c-o-land-sale#140565830,2026-09-23
