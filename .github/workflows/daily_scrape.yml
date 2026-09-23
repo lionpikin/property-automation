@@ -8,25 +8,20 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-      
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      
       - name: Run Scraper
         run: |
-          echo "Installing requests..."
-          pip install requests
-          echo "Running scraper..."
+          pip install requests beautifulsoup4
           python daily_scraper.py
-      
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
